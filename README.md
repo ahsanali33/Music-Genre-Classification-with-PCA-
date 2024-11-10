@@ -1,7 +1,3 @@
-Here's a detailed README for your project:
-
----
-
 # Music Genre Classification Using PCA
 
 This project classifies music tracks by genre using **Principal Component Analysis (PCA)** for dimensionality reduction and **Logistic Regression** for supervised classification. The aim is to analyze various musical features and determine genre patterns, enhancing data management and classification accuracy.
